@@ -1,0 +1,13 @@
+INSERT INTO biblioteca_db.gender (name) VALUES ('Ficción Literaria'), ('Ciencia Ficción'), ('Fantasía')
+,('Misterio y Suspense')
+,('Novela Negra y Policíaca')
+,('Romance')
+,('Aventura')
+,('Histórica')
+,('Terror')
+,('Poesía')
+,('Ensayo y No Ficción')
+,('Biografía y Memorias')
+,('Autobiografía')
+,('Autoayuda y Desarrollo Personal')
+,('Cómic y Novela Gráfica');
